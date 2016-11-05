@@ -1,3 +1,1 @@
-ReactTimer Application
-* Timer
-* Countdown
+React Boilerplate
